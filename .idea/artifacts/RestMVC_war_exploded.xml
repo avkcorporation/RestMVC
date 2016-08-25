@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RestMVC:war exploded">
+    <output-path>$PROJECT_DIR$/target/rest-mvc</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RestMVC" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.1.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.jboss.resteasy:jaxrs-api:3.0.10.Final" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:\program_O\Labi_pod_zakazzzzz\Alex Developer\2016\Java\Rlnsoocom-Modeling\suit\RestMVC\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="RestMVC/web/Web" />
+    </root>
+  </artifact>
+</component>

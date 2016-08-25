@@ -1,0 +1,16 @@
+body{
+    font-family: "verdana", sans-serif;
+    font-size: 60px;
+}
+
+.calc{
+    width: 250px;
+    height: 50px;
+    font-family: "verdana", sans-serif;
+    font-size: 36px;
+}
+
+#result{
+    font-family: "verdana", sans-serif;
+    font-size: 36px;
+}
